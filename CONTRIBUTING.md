@@ -14,4 +14,5 @@ do not have any strategic algorithms in them.
 This base is free for anyone to use, but please adhere to the MIT Open Source License.
 
 Thank you all for undertsading this and adhering to these requests.
+
 -Abhishek Rajopadhye
